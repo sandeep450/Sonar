@@ -25,7 +25,7 @@
         <enabled>false</enabled>
       </snapshots>
     </repository>
-  </repositorie
+  </repositories>
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
